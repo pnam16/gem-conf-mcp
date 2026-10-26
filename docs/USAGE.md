@@ -45,7 +45,7 @@ Khởi động lại Claude Code/Desktop sau khi sửa config.
   "mcpServers": {
     "conf-mcp": {
       "command": "npx",
-      "args": ["-y", "github:namcpgem/gem-conf-mcp"],
+      "args": ["-y", "github:pnam16/gem-conf-mcp"],
       "env": { "...": "..." }
     }
   }

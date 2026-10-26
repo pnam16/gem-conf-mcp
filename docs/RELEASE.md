@@ -64,7 +64,7 @@ Lưu ý:
 ### 2. GitHub (git install)
 
 ```bash
-npx github:namcpgem/gem-conf-mcp
+npx github:pnam16/gem-conf-mcp
 ```
 
 Khi cài từ git, npm tự chạy script `prepare` (cấu hình `"prepare": "npm run build"`) để build `dist/index.js`. release-it tự động push tag lên GitHub — chỉ cần đảm bảo repo ở chế độ **public**.

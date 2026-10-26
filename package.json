@@ -50,7 +50,7 @@
   "name": "conf-mcp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namcpgem/gem-conf-mcp.git"
+    "url": "git+https://github.com/pnam16/gem-conf-mcp.git"
   },
   "scripts": {
     "archive": "node scripts/build.js && node scripts/archive.js",

@@ -91,7 +91,7 @@ Restart Claude Code/Desktop after editing the config.
 Run directly from GitHub without npm:
 
 ```json
-"args": ["-y", "github:namcpgem/gem-conf-mcp"]
+"args": ["-y", "github:pnam16/gem-conf-mcp"]
 ```
 
 Or point at a local build:
@@ -121,7 +121,7 @@ Questions or issues? Email [namcp@gem-corp.global](mailto:namcp@gem-corp.global)
 
 If this project helps you, consider buying me a coffee:
 
-<img src="https://raw.githubusercontent.com/namcpgem/gem-conf-mcp/main/docs/buy-me-a-coffee.jpg" alt="Buy Me A Coffee" width="300">
+<img src="https://raw.githubusercontent.com/pnam16/gem-conf-mcp/main/docs/buy-me-a-coffee.jpg" alt="Buy Me A Coffee" width="300">
 
 ---
 
