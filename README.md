@@ -1,3 +1,5 @@
+> This repository has moved to [pnam16/confluence-mcp](https://github.com/pnam16/confluence-mcp). Development happens in [pnam16/atlassian-mcp](https://github.com/pnam16/atlassian-mcp). The npm package `conf-mcp` is unchanged.
+
 # Confluence mcp
 
 MCP server for Confluence Server/Data Center (REST API). Lets an AI assistant (Claude Code, Claude Desktop, ...) read and write your Confluence directly.
